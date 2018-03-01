@@ -1,0 +1,47 @@
+[
+    {
+      "id": "123",
+      "isActive": true,
+      "eyeColor": "black",
+      "name": "Bob Lee",
+      "company": "Bob's Bugers",
+      "email": "bob@bobsburgers.com",
+      "address": "690 Charles Place, Santel, Northern Mariana Islands, 3791"
+    },
+    {
+      "id": "436",
+      "isActive": false,
+      "eyeColor": "green",
+      "name": "Joe Cool",
+      "company": "Knotts",
+      "email": "joe@knotts.com",
+      "address": "317 Seeley Street, Cade, Maryland, 3976"
+    },
+    {
+      "id": "163",
+      "isActive": true,
+      "eyeColor": "blue",
+      "name": "Tony Tiger",
+      "company": "Frosted Flakes",
+      "email": "tony@frostedflakes.com",
+      "address": "760 Provost Street, Valle, Alaska, 4628"
+    },
+    {
+      "id": "582",
+      "isActive": false,
+      "eyeColor": "black",
+      "name": "Colonel Sanders",
+      "company": "KFC",
+      "email": "colonel@fingerlickingood.com",
+      "address": "452 Union Avenue, Hachita, Palau, 9166"
+    },
+    {
+      "id": "1532",
+      "isActive": true,
+      "eyeColor": "brown",
+      "name": "Mickey Mouse",
+      "company": "Disney",
+      "email": "mickey@disney.com",
+      "address": "350 Remsen Avenue, Abrams, Ohio, 6355"
+    }
+  ]
